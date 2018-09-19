@@ -1,2 +1,2 @@
 # aws
-AWS Repository
+AWS Repository for A Cloud Guru *Automating AWS with Python*
